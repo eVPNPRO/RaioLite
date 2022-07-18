@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.3",
-  "ReleaseNotes": "RaioLite\nconfigs novas para todas as operadoras",
+  "Version": "1.0.4",
+  "ReleaseNotes": "RaioLite\nconfigs Claro online",
   "UrlUpdate": "https://raw.githubusercontent.com/eVPNPRO/RaioLite/main/CONNECTA4G-main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/eVPNPRO/RaioLite/main/CONNECTA4G-main/UrlSms",
   "EmailFeedback": "NETBOXDIGITALL@GMAIL.COM",
@@ -233,7 +233,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "♾️CLARO DEEZER",
+      "Name": "♾️CLARO ONLINE",
       "FLAG": "claro",
       "Payload": "GET wss://4.icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "4.icanhazip.com",
