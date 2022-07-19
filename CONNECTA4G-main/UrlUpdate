@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.5",
+  "Version": "1.0.6",
   "ReleaseNotes": "RaioLite\n Atualização Vivo online",
   "UrlUpdate": "https://raw.githubusercontent.com/eVPNPRO/RaioLite/main/CONNECTA4G-main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/eVPNPRO/RaioLite/main/CONNECTA4G-main/UrlSms",
@@ -45,9 +45,9 @@
     {
       "Name": "♾️VIVO NEXT",
       "FLAG": "vivo",
-      "Payload": "GET wss://help.pornhub.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "help.pornhub.com",
-      "TlsIP": "162.159.135.63",
+      "Payload": "GET wss://help.livestream.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "help.livestream.com",
+      "TlsIP": "help.livestream.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
