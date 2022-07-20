@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.8",
+  "Version": "1.0.9",
   "ReleaseNotes": "RaioLite\n Atualização Vivo online",
   "UrlUpdate": "https://raw.githubusercontent.com/eVPNPRO/RaioLite/main/CONNECTA4G-main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/eVPNPRO/RaioLite/main/CONNECTA4G-main/UrlSms",
@@ -33,11 +33,11 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "♾️VIVO FAST",
+      "Name": "♾️VIVO REGIÕES",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "carrinho-pos-familia.vivo.com.br",
-      "TlsIP": "104.16.56.6",
+      "Payload": "GET wss://fitality.gr// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "fitality.gr",
+      "TlsIP": "fitality.gr",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
