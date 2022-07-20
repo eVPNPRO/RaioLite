@@ -1,6 +1,6 @@
 {
-  "Version": "1.1.0",
-  "ReleaseNotes": "RaioLite\n TESTE VIVO E CLARO",
+  "Version": "1.1.1",
+  "ReleaseNotes": "RaioLite\n Atualização VIVO E CLARO",
   "UrlUpdate": "https://raw.githubusercontent.com/eVPNPRO/RaioLite/main/CONNECTA4G-main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/eVPNPRO/RaioLite/main/CONNECTA4G-main/UrlSms",
   "EmailFeedback": "NETBOXDIGITALL@GMAIL.COM",
@@ -53,11 +53,11 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "♾️VIVO NETFLIX",
+      "Name": "♾️VIVO TVDUCK",
       "FLAG": "vivo",
-      "Payload": "GET wss://support.uptodown.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "support.uptodown.com",
-      "TlsIP": "162.159.136.63",
+      "Payload": "GET wss://tvduck.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "tvduck.com",
+      "TlsIP": "tvduck.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
