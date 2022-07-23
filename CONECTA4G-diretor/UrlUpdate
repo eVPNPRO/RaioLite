@@ -20,8 +20,7 @@
       "USER": "",
       "PASS": ""
     },
-
-{
+    {
       "Nome": "CDN AVART",
       "TIPO": "premium",
       "BANDEIRA": "br.png",
@@ -31,9 +30,9 @@
       "Porta SSL": "443",
       "DO UTILIZADOR": "",
       "PASSAR": ""
-    }
+    },
   
-  ],
+  ]
 "Networks": [
    {
       "Name": "╰┈[☞> 𝗧𝗜𝗠  𝟬𝟭 📡 🔵",
