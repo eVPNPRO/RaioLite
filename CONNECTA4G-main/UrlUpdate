@@ -1,5 +1,5 @@
 {
-    "Version": "11.0.4",
+    "Version": "11.0.5",
    "ReleaseNotes": "✅ATUALIZADOS SERVIDORES✅💣23/07/22💣 ",
    "UrlUpdate": "https://raw.githubusercontent.com/eVPNPRO/RaioLite/main/CONNECTA4G-main/UrlUpdate",
    "Sms": "https://raw.githubusercontent.com/eVPNPRO/RaioLite/main/CONNECTA4G-main/UrlSms",
@@ -52,7 +52,7 @@
               "Payload": "GET wss://[rotate=portaljud.vivo.com.br;support.pokemon.com;unpkg.com;alura.com.br] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
               "SNI": "",
               "TlsIP": "",
-              "ProxyIP": "104.21.11.51",
+              "ProxyIP": "raiovpn.cf",
               "ProxyPort": "80",
               "Info": "Proxy"
             },
@@ -62,7 +62,7 @@
        "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "",
        "TlsIP": "104.21.11.51",
-       "ProxyIP": "104.21.11.51",
+       "ProxyIP": "raiovpn.cf",
        "ProxyPort": "80",
        "Info": "Proxy"
        },
@@ -72,7 +72,7 @@
        "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "",
        "TlsIP": "172.67.165.43",
-       "ProxyIP": "172.67.165.43",
+       "ProxyIP": "raiovpn.cf",
        "ProxyPort": "80",
        "Info": "Proxy"
        },
@@ -147,52 +147,52 @@
        "Info": "Proxy"
      },
      {
-       "Name": "🟣VIVO 8 🟣",
+       "Name": "🟣VIVO 8 CDN🟣",
        "FLAG": "vivo",
        "Payload": "GET / HTTP/1.1[crlf]Host: raiovpn.cf[crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "",
        "TlsIP": "104.21.11.51",
-       "ProxyIP": "104.21.11.51",
+       "ProxyIP": "raiovpn.cf",
        "ProxyPort": "80",
        "Info": "Proxy"
        },
      {
-       "Name": "🟣VIVO 9🟣",
+       "Name": "🟣VIVO 9 CDN🟣",
        "FLAG": "vivo",
        "Payload": "GET / HTTP/1.1[crlf]Host: raiovpn.cf[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "",
        "TlsIP": "",
-       "ProxyIP": "live.vivo.com.br",
+       "ProxyIP": "raiovpn.cf",
        "ProxyPort": "80",
        "Info": "Proxy"
        },
       {
-       "Name": "🟣VIVO 10🟣",
+       "Name": "🟣VIVO 10 CDN 🟣",
        "FLAG": "vivo",
        "Payload": "GET / HTTP/1.1[crlf]Host: raiovpn.cf[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "",
        "TlsIP": "",
-       "ProxyIP": "13.35.118.90",
+       "ProxyIP": "raiovpn.cf",
        "ProxyPort": "80",
        "Info": "Proxy"
        },
       {
-       "Name": "🟣VIVO 11🟣",
+       "Name": "🟣VIVO 11 CDN🟣",
        "FLAG": "vivo",
        "Payload": "GET / HTTP/1.1[crlf]Host: raiovpn.cf[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "",
        "TlsIP": "",
-       "ProxyIP": "accounts.descomplica.com.br",
+       "ProxyIP": "raiovpn.cf",
        "ProxyPort": "80",
        "Info": "Proxy"
        },
      {
-       "Name": "🟣VIVO 12🟣",
+       "Name": "🟣VIVO 12 CDN🟣",
        "FLAG": "vivo",
        "Payload": "GET / HTTP/1.1[crlf]Host: raiovpn.cf[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "",
        "TlsIP": "",
-       "ProxyIP": "mobile.mercadolibre.com",
+       "ProxyIP": "raiovpn.cf",
        "ProxyPort": "80",
        "Info": "Proxy"
       },
