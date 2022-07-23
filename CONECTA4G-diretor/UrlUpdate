@@ -20,19 +20,7 @@
       "USER": "",
       "PASS": ""
     },
-    {
-      "Nome": "CDN AVART",
-      "TIPO": "premium",
-      "BANDEIRA": "br.png",
-      "ServerIP": "raiovpn.cf",
-      "CheckUser": "http://186.233.119.171:5454/checkUser",
-      "ServerPort": "22",
-      "Porta SSL": "443",
-      "DO UTILIZADOR": "",
-      "PASSAR": ""
-    }
-  
-  ],
+     ],
 "Networks": [
    {
       "Name": "╰┈[☞> 𝗧𝗜𝗠  𝟬𝟭 📡 🔵",
