@@ -19,7 +19,7 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    },
+    }
     {
       "Name": "CDN(Avart)",
       "TYPE": "premium",
